@@ -1,0 +1,11 @@
+Running tg128.sh for ollama-gemma3-4b-q4...
+Baseline PP time for a short prompt is: 0.003733 s
+Running Token Generation (TG) test...
+------------------------------------
+Token Generation (TG) Results
+------------------------------------
+Tokens Generated: 128
+Total Request Time: 0.003356 s
+Pure Generation Time (Total - PP): -.000377 s
+TG Throughput: -339522.5464 tokens/s
+------------------------------------
