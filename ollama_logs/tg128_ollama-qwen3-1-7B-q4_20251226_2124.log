@@ -1,0 +1,12 @@
+Running tg128.sh for ollama-qwen3-1-7B-q4...
+Running Token Generation (TG) test for model: ollama-qwen3-1-7B-q4 (target: 128 tokens)...
+------------------------------------
+Token Generation (TG) Results
+------------------------------------
+Model: ollama-qwen3-1-7B-q4
+Prompt Tokens: 1
+Generated Tokens (actual): 128
+Prompt Processing Time: .081795 s
+Token Generation Time: 10.526377 s
+TG Throughput: 12.1599 tokens/s
+------------------------------------

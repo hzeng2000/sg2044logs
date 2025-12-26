@@ -1,11 +1,11 @@
-Running pp512.sh for ollama-gemma3-270m-q4...
- warming up the model: ollama-gemma3-270m-q4...
+Running pp512.sh for ollama-qwen3-1-7B-q4...
+ warming up the model: ollama-qwen3-1-7B-q4...
 Running Prompt Processing (PP) test...
 --------------------------------------------------
 Prompt Processing (PP) Results (from Ollama API)
 --------------------------------------------------
-Model: ollama-gemma3-270m-q4
-Prompt Tokens (actual): 509
-PP Time (prompt_eval_duration): 2.145245 s
-PP Throughput: 237.2689 tokens/s
+Model: ollama-qwen3-1-7B-q4
+Prompt Tokens (actual): 513
+PP Time (prompt_eval_duration): 17.186227 s
+PP Throughput: 29.8494 tokens/s
 --------------------------------------------------
